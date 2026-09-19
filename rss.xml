@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grok playlist</title>
+    <link>https://www.youtube.com/playlist?list=PLHHQ6hXdZyYU</link>
+    <description>What’s the point — concise summaries</description>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Sep 2026 17:10:00 GMT</lastBuildDate>
+    <atom:link href="rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Meet Kevin — Inside the Unprecedented SEC Bailout of Stocks &amp; Crypto | Major Rule Change</title>
+      <link>https://www.youtube.com/watch?v=FVM4MN7raH0</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=FVM4MN7raH0</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+<p><strong>Point:</strong> SEC innovation exemption lets 1:1 tokenized stocks trade on-chain for 5 years without exchange registration or best-execution — framed as a bailout after Clarity Act failed.</p>
+<p>Published 2026-09-18 · Age at process 22h · 27:19 · Watch: Skim</p>
+<ul>
+<li>On-chain stock tokens, no exchange registration, no best bid/offer</li>
+<li>Timing: ~2 days after Clarity Act failed</li>
+<li>Benefits crypto rails and brokers (Robinhood called out)</li>
+<li>Disclosure looser in a test window, not a full statute</li>
+</ul>
+<p>Skip the first ~5 minutes of framing; the rule itself is the payload.</p>
+]]></description>
+    </item>
+  </channel>
+</rss>

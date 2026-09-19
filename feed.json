@@ -1,0 +1,28 @@
+{
+  "playlist": {
+    "name": "Grok",
+    "url": "https://www.youtube.com/playlist?list=PLHHQ6hXdZyYU",
+    "owner": "Jason Keller"
+  },
+  "updated": "2026-09-19T13:10:00-04:00",
+  "videos": [
+    {
+      "channel": "Meet Kevin",
+      "title": "Inside the Unprecedented SEC Bailout of Stocks & Crypto | Major Rule Change",
+      "duration": "27:19",
+      "url": "https://www.youtube.com/watch?v=FVM4MN7raH0",
+      "published": "2026-09-18",
+      "processed_at": "2026-09-19T12:02:00-04:00",
+      "age_at_process": "22h",
+      "point": "SEC innovation exemption lets 1:1 tokenized stocks trade on-chain for 5 years without exchange registration or best-execution — framed as a bailout after Clarity Act failed.",
+      "content": [
+        "On-chain stock tokens, no exchange registration, no best bid/offer",
+        "Timing: ~2 days after Clarity Act failed",
+        "Benefits crypto rails and brokers (Robinhood called out)",
+        "Disclosure looser in a test window, not a full statute"
+      ],
+      "watch": "Skim",
+      "watch_why": "Skip the first ~5 minutes of framing; the rule itself is the payload."
+    }
+  ]
+}
