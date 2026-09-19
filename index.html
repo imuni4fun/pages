@@ -70,7 +70,7 @@
         document.getElementById("updated").textContent = data.updated || "—";
         const a = document.getElementById("playlist-link");
         a.href = data.playlist?.url || "#";
-        const videos = data.videos || [];
+        const videos = (data.videos || []).slice().reverse();
         document.getElementById("status").textContent =
           videos.length ? videos.length + " video" + (videos.length === 1 ? "" : "s") : "No videos in feed.json";
         const root = document.getElementById("cards");
