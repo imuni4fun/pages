@@ -4,29 +4,29 @@
     "url": "https://www.youtube.com/playlist?list=PLHHQ6hXdZyYU",
     "owner": "Jason Keller"
   },
-  "updated": "2026-09-19T13:58:00-04:00",
+  "updated": "2026-09-19T21:05:00-04:00",
   "videos": [
     {
       "channel": "Meet Kevin",
-      "title": "Inside the Unprecedented SEC Bailout of Stocks & Crypto | Major Rule Change",
+      "title": "How Trump JUST Bailed out All Stocks & Crypto. Again.",
       "duration": "27:19",
       "url": "https://www.youtube.com/watch?v=FVM4MN7raH0",
       "published": "2026-09-18",
-      "processed_at": "2026-09-19T13:58:00-04:00",
+      "processed_at": "2026-09-19T21:05:00-04:00",
       "point": "SEC innovation exemption lets 1:1 tokenized stocks trade on-chain for 5 years without exchange registration or best-execution.",
-      "content": ["On-chain stock tokens, no exchange registration, no best bid/offer", "Timing: ~2 days after Clarity Act failed", "Benefits crypto rails and brokers (Robinhood called out)"],
+      "content": ["On-chain stock tokens, no exchange registration, no best bid/offer", "Timing after Clarity Act failed", "Helps crypto rails and brokers"],
       "watch": "Skim",
-      "watch_why": "Skip the first ~5 minutes; the rule is the payload."
+      "watch_why": "Same SEC video; title was rewritten. Skip first 5 minutes."
     },
     {
       "channel": "Cash Jordan",
-      "title": "Iran Laughs \"TRUMP WON'T DO IT\"... Then Their Power Plants GET VAPORIZED",
+      "title": "Iran Laughs TRUMP WON'T DO IT... Then Their Power Plants GET VAPORIZED",
       "duration": "19:54",
       "url": "https://www.youtube.com/watch?v=nVg7wAzqivU",
       "published": "2026-09-18",
-      "processed_at": "2026-09-19T13:58:00-04:00",
-      "point": "Commentary packaging Trump threats to knock out Iranian power plants/bridges; title oversells that plants were already vaporized.",
-      "content": ["Trump: could take out power plants in a day / bridges in an hour", "Framed as leverage in stalled talks", "News-clip montage + opinion, not battle damage"],
+      "processed_at": "2026-09-19T21:05:00-04:00",
+      "point": "Commentary packaging Trump threats to knock out Iranian power plants; title oversells that plants were vaporized.",
+      "content": ["Threat as leverage, not a battle-damage report"],
       "watch": "Skip",
       "watch_why": "Clickbait title vs content."
     },
@@ -36,23 +36,23 @@
       "duration": "45:59",
       "url": "https://www.youtube.com/watch?v=gS1iSq-CONU",
       "published": "2026-09-18",
-      "processed_at": "2026-09-19T13:58:00-04:00",
-      "point": "Long live stream claiming armed anti-IRGC clashes spreading to more Iranian cities.",
-      "content": ["Live geopolitical stream, ~46 minutes", "Theme: internal armed resistance vs IRGC"],
+      "processed_at": "2026-09-19T21:05:00-04:00",
+      "point": "46-minute live claiming armed anti-IRGC clashes in more cities.",
+      "content": ["Opposition-channel live, not a tight brief"],
       "watch": "Skip",
-      "watch_why": "46-minute live. Not a tight thesis."
+      "watch_why": "Live dump."
     },
     {
       "channel": "Meet Kevin",
-      "title": "Trump Issues NEW WARNING | Iran Tankers Struck AGAIN",
+      "title": "Prepare: Iran Tankers Struck & New Trump Warning",
       "duration": "16:43",
       "url": "https://www.youtube.com/watch?v=HQTGvFMVNRQ",
       "published": "2026-09-18",
-      "processed_at": "2026-09-19T13:58:00-04:00",
-      "point": "Trump talking annihilate / restart major strikes while tanker-for-tanker hits continue in Hormuz.",
-      "content": ["Additional tanker strikes + Bitbank sanctions", "Axios: decision point on restarting massive attacks"],
+      "processed_at": "2026-09-19T21:05:00-04:00",
+      "point": "Tanker-for-tanker hits plus Trump talking restart of major strikes.",
+      "content": ["Hormuz tankers + Bitbank sanctions", "Axios: decision point on bigger attacks"],
       "watch": "Skim",
-      "watch_why": "News wrap. Skip intro recap."
+      "watch_why": "News wrap."
     },
     {
       "channel": "Dr. Eric Berg DC",
@@ -60,23 +60,23 @@
       "duration": "11:49",
       "url": "https://www.youtube.com/watch?v=HjAesaCiako",
       "published": "2026-09-19",
-      "processed_at": "2026-09-19T13:58:00-04:00",
-      "point": "Stopping Ozempic: side effects can linger; 25-40% of loss can be muscle; regain is mostly fat unless you change training and food.",
-      "content": ["Muscle loss 25-40% of the drop", "Hunger returns; gastroparesis/vision/pancreas notes", "Berg: protein, lifting, do not treat the drug as the plan"],
+      "processed_at": "2026-09-19T21:05:00-04:00",
+      "point": "Off Ozempic: muscle can be 25-40% of the loss; regain is mostly fat unless training and food change.",
+      "content": ["Hunger returns", "Protein + lifting"],
       "watch": "Worth it",
-      "watch_why": "11 minutes, actual checklist."
+      "watch_why": "Short checklist."
     },
     {
       "channel": "Max Afterburner",
-      "title": "IRGC Mobilizes 313,000 Troops As Trump Weighs MASSIVE Iran Strikes",
+      "title": "IRGC Mobilizes Troops As Trump Threatens To ANNIHILATE Iran",
       "duration": "18:50",
       "url": "https://www.youtube.com/watch?v=lTU_cuLtupw",
       "published": "2026-09-18",
-      "processed_at": "2026-09-19T13:58:00-04:00",
-      "point": "Tehran staged a ~313k Janfada/Fedayeen parade while Trump publicly weighs restarting big strikes.",
-      "content": ["313,000 is organizer figure + 313 symbolism", "Trump: big decision on resuming major attacks"],
+      "processed_at": "2026-09-19T21:05:00-04:00",
+      "point": "Tehran ~313k Janfada parade while Trump weighs restarting big strikes.",
+      "content": ["Organizer headcount + symbolism"],
       "watch": "Skim",
-      "watch_why": "Rally number is the payload."
+      "watch_why": "One fact, rest format."
     },
     {
       "channel": "Rabbi Pinchas Taylor",
@@ -84,11 +84,83 @@
       "duration": "11:44",
       "url": "https://www.youtube.com/watch?v=YhU_1svyvNk",
       "published": "2026-09-14",
-      "processed_at": "2026-09-19T13:58:00-04:00",
-      "point": "VDH clip: after ~6 months of pressure he puts ~30% odds the Iranian street snaps.",
-      "content": ["Food/money stress as backdrop", "Delayed-collapse analogy after military humiliation"],
+      "processed_at": "2026-09-19T21:05:00-04:00",
+      "point": "VDH puts ~30% odds the Iranian street snaps after months of pressure.",
+      "content": ["Clip show around one Hanson take"],
       "watch": "Skim",
-      "watch_why": "Hanson bit is short; rest is wrapper."
+      "watch_why": "Clip is short."
+    },
+    {
+      "channel": "Max Afterburner",
+      "title": "IRGC Is Suddenly Being ATTACKED From Within Iran",
+      "duration": "19:44",
+      "url": "https://www.youtube.com/playlist?list=PLHHQ6hXdZyYU",
+      "published": "2026-09-19",
+      "processed_at": "2026-09-19T21:05:00-04:00",
+      "point": "Claims internal/Kurdish-style pressure on IRGC inside Iran; same channel format as the 313k video.",
+      "content": ["Internal-attack narrative", "Pilot commentary + montage"],
+      "watch": "Skip",
+      "watch_why": "Overlaps the earlier Afterburner Iran videos."
+    },
+    {
+      "channel": "Benny Johnson",
+      "title": "Trump Just CANCELED His Schedule, Locked Himself In Camp David, Promises Something BIG Is Happening",
+      "duration": "9:35",
+      "url": "https://www.youtube.com/watch?v=8KzB-LYR6Qs",
+      "published": "2026-09-19",
+      "processed_at": "2026-09-19T21:05:00-04:00",
+      "point": "Trump cleared weekend plans / Camp David; video treats that as a tell that something big is imminent. No confirmed operation in the clip itself.",
+      "content": ["Schedule cancel as the whole payload", "Speculation, not a sourced op plan"],
+      "watch": "Skip",
+      "watch_why": "9 minutes of implication."
+    },
+    {
+      "channel": "Meet Kevin Clips",
+      "title": "Michael Burry Is Wrong About the Market (Why the Party Isn't Over)",
+      "duration": "3:46",
+      "url": "https://www.youtube.com/playlist?list=PLHHQ6hXdZyYU",
+      "published": "2026-09-19",
+      "processed_at": "2026-09-19T21:05:00-04:00",
+      "point": "Short clip: Kevin arguing Burry is early/wrong and the market party is not over.",
+      "content": ["3:46 clip, not a full thesis"],
+      "watch": "Skim",
+      "watch_why": "Short enough if you care about Burry vs Kevin."
+    },
+    {
+      "channel": "My Tech Fun",
+      "title": "IPCON PPA-CF vs PPA-GF: One Is the Strongest Filament I've Ever Tested",
+      "duration": "22:50",
+      "url": "https://www.youtube.com/watch?v=MxEZZ7XkV_M",
+      "published": "2026-09-18",
+      "processed_at": "2026-09-19T21:05:00-04:00",
+      "point": "Bench test: IPCON PPA-CF vs PPA-GF; CF wins raw strength/stiffness, GF is the insulation/toughness trade.",
+      "content": ["PPA-CF near the top of his strength chart", "High print temp, anneal for HDT", "Useful if you print high-temp parts"],
+      "watch": "Worth it",
+      "watch_why": "Actual test data, not geopolitics filler."
+    },
+    {
+      "channel": "Veritasium",
+      "title": "Something is jamming GPS over Europe. Here's what we found",
+      "duration": "34:17",
+      "url": "https://www.youtube.com/watch?v=tz23G_UXCGA",
+      "published": "2026-06-05",
+      "processed_at": "2026-09-19T21:05:00-04:00",
+      "point": "UT Austin traced brief Europe-wide GPS outages to Russian missile-warning sat Cosmos 2546; looks like a weekday test of space-based jamming.",
+      "content": ["Too wide for a ground jammer; source >1200 km up", "Geometry pinned Cosmos 2546", "Weekday business-hour bursts"],
+      "watch": "Worth it",
+      "watch_why": "Real investigation. Skip if you already saw it in June."
+    },
+    {
+      "channel": "Fox Business",
+      "title": "America could be on the verge of a MASSIVE power shift | Recap",
+      "duration": "1:10:20",
+      "url": "https://www.youtube.com/watch?v=Tlf5gugwVQI",
+      "published": "2026-09-19",
+      "processed_at": "2026-09-19T21:05:00-04:00",
+      "point": "70-minute desk recap: Saudi pipeline offline, US energy-abundance pitch, Clarity Act vote, Bessent/inflation, Vance on Iran, Fed/Warsh fight.",
+      "content": ["Oil shock + EIA 14mbd 2027 talk", "Crypto Clarity Act 60-vote", "Iran phase + Canada/Europe spat"],
+      "watch": "Skip",
+      "watch_why": "70 minutes. Use chapters; energy bit starts ~10:32."
     }
   ]
 }
