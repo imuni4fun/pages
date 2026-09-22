@@ -1,0 +1,23 @@
+{
+  "feed": {"name": "Weekday market brief", "url": "https://imuni4fun.github.io/pages/brief/", "owner": "Jason Keller"},
+  "updated": "2026-09-22T10:35:00-04:00",
+  "count": 1,
+  "briefs": [
+    {
+      "id": "2026-09-22",
+      "title": "Market brief — Tuesday 2026-09-22 7:30 ET",
+      "published": "2026-09-22",
+      "processed_at": "2026-09-22T10:35:00-04:00",
+      "point": "Quiet data week after the Sep FOMC hike; Korea Zinc Project Crucible FONSI is the only dated watchlist-adjacent catalyst; ASTS officers sold on 10b5-1 Sep 16.",
+      "watch": "Worth it",
+      "watch_why": "Calendar is light until claims/durables; Crucible + ASTS Form 4s are the stock-specific payload.",
+      "content": [
+        "Calendar: Richmond Fed + Williams/Jefferson/Barkin today; claims + new homes Thu; durables + UMich Fri. Next OPEX Oct 16.",
+        "ASTS: no confirmed launch NET in 30d; BB 14-16 production window only. TMC: NOAA certification window ~Oct; Allseas system still Q4 2027.",
+        "Insiders: ASTS CTO Yao 40k 10b5-1 sale and COO Gupta 12k sale on Sep 16. TMC: director Hall RSU grant only.",
+        "Tape: 10y ~4.94%, 2s10s ~+20 bp, USDJPY ~157, SPX ~7765, VIX ~14.9."
+      ],
+      "body": "# Market brief — Tuesday 2026-09-22 7:30 ET\n\n## Calendar — next 5 market days (chronological)\n**Tue 2026-09-22**\n- 10:00 ET — Richmond Fed Manufacturing Index (Sep) — regional factory pulse\n- ~10:05/10:20/13:00 ET — Williams / Jefferson / Barkin speeches — FOMC voting members\n\n**Wed 2026-09-23**\n- no major prints\n\n**Thu 2026-09-24**\n- 08:30 ET — Initial jobless claims (week of Sep 19) — labor softness check\n- 08:30 ET — Current Account (Q2) — external balance\n- 10:00 ET — New Home Sales (Aug) — housing demand\n\n**Fri 2026-09-25**\n- 08:30 ET — Durable Goods Orders (Aug P) — capital spending\n- 10:00 ET — U. Michigan Consumer Sentiment final (Sep) — household view\n\n**Mon 2026-09-28**\n- no major prints\n\n(Next high-impact: ADP 08:15 ET Sep 30; JOLTS 10:00 ET Sep 29; GDP third / PCE 08:30 ET Sep 30. Monthly equity OPEX Friday Oct 16.)\n\n## Stock / catalysts — next 30 days\n**2026-09-21 / recent** — Korea Zinc / Project Crucible — DoD final EA + FONSI — confirmed.\n**Window overlapping next 30d** — ASTS — BlueBird 14-16 production complete / possible October Falcon 9 window — inferred; no company-confirmed NET.\n**~Oct 2026** — TMC — NOAA certification window; commercial collection still Q4 2027 — estimated.\nASTS: no additional firm dated events in 30d.\nTMC: no additional firm ISA / vessel / offtake dates in 30d.\n\n## Insiders — recently reported\nASTS: Yao (CTO) 10b5-1 sale 40,000 @ ~$58.93 on 16 Sep; Gupta (COO) sale 12,000 @ ~$58.89; remaining 462,980 direct.\nTMC: Hall (Director) RSU grant 72,935 on 11 Sep. No open-market TMC trades in 14d.\n\n## Rates / FX / tape\n10y ~4.94–4.95%; 2y ~4.74–4.75%; 10y–2y ~+20 bp (not inverted). USDJPY ~157.0–157.3. SPX ~7,765; IWM ~285–286; VIX ~14.9.\n\n## What actually matters this morning\n- Richmond Fed + three FOMC speakers\n- Claims / New Home Sales Thursday\n- Korea Zinc Crucible FONSI\n- ASTS production cadence continues; no dated launch in 30d\n- Low VIX / quiet calendar until later-week data"
+    }
+  ]
+}

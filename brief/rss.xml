@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Weekday market brief</title>
+    <link>https://imuni4fun.github.io/pages/brief/</link>
+    <description>Jason weekday 7:30 ET pre-market brief</description>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Sep 2026 10:35:00 -0400</lastBuildDate>
+    <atom:link href="https://imuni4fun.github.io/pages/brief/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Market brief — Tuesday 2026-09-22 7:30 ET</title>
+      <link>https://imuni4fun.github.io/pages/brief/#2026-09-22</link>
+      <guid isPermaLink="false">brief-2026-09-22</guid>
+      <pubDate>Tue, 22 Sep 2026 11:30:00 GMT</pubDate>
+      <description>Quiet data week after the Sep FOMC hike; Korea Zinc Project Crucible FONSI is the only dated watchlist-adjacent catalyst; ASTS officers sold on 10b5-1 Sep 16.</description>
+    </item>
+  </channel>
+</rss>
