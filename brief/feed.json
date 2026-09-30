@@ -1,1 +1,59 @@
-placeholder-will-fail-if-not-replaced
+{
+  "feed": {
+    "name": "Weekday market brief",
+    "url": "https://imuni4fun.github.io/pages/brief/",
+    "owner": "Jason Keller"
+  },
+  "updated": "2026-09-30T07:33:00-04:00",
+  "count": 3,
+  "briefs": [
+    {
+      "id": "2026-09-22",
+      "title": "Market brief — Tuesday 2026-09-22 7:30 ET",
+      "published": "2026-09-22",
+      "processed_at": "2026-09-22T10:35:00-04:00",
+      "point": "Quiet data week after the Sep FOMC hike; Korea Zinc Project Crucible FONSI is the only dated watchlist-adjacent catalyst; ASTS officers sold on 10b5-1 Sep 16.",
+      "watch": "Worth it",
+      "watch_why": "Calendar is light until claims/durables; Crucible + ASTS Form 4s are the stock-specific payload.",
+      "content": [
+        "Calendar: Richmond Fed + Williams/Jefferson/Barkin today; claims + new homes Thu; durables + UMich Fri. Next OPEX Oct 16.",
+        "ASTS: no confirmed launch NET in 30d; BB 14-16 production window only. TMC: NOAA certification window ~Oct; Allseas system still Q4 2027.",
+        "Insiders: ASTS CTO Yao 40k 10b5-1 sale and COO Gupta 12k sale on Sep 16. TMC: director Hall RSU grant only.",
+        "Tape: 10y ~4.94%, 2s10s ~+20 bp, USDJPY ~157, SPX ~7765, VIX ~14.9."
+      ],
+      "body": "(prior brief body omitted from blob; point/content retained)"
+    },
+    {
+      "id": "2026-09-23",
+      "title": "Market brief — Wednesday 2026-09-23 7:30 ET",
+      "published": "2026-09-23",
+      "processed_at": "2026-09-23T07:45:00-04:00",
+      "point": "Quiet mid-week data day; flash PMIs and Barr speech today, claims/new homes tomorrow; ASTS no dated launch in 30d, TMC NOAA cert still ~Oct; recent ASTS 10b5-1 sales already noted.",
+      "watch": "Skim",
+      "watch_why": "No high-impact prints or firm watchlist catalysts until claims Thu and JOLTS/ADP later; tape calm, low VIX.",
+      "content": [
+        "Calendar: flash PMIs + Barr + EIA today; claims + current account + new homes Thu; durables + UMich Fri; JOLTS Tue 29; ADP/GDP/PCE Wed 30. No OPEX this window.",
+        "ASTS: BB11-13 launched Aug 5; 14-16 production advancing, no company NET in next 30d. TMC: NOAA certification estimated Oct; vessel/Allseas still Q4 2027.",
+        "Insiders: ASTS Yao 40k 10b5-1 + Gupta 12k sales (16 Sep) still in 14d window; TMC Hall RSU only. No new open-market since.",
+        "Rates/FX/tape: 10y ~4.98–4.99%, 2y ~4.77–4.80%, 2s10s ~+18–20 bp; USDJPY ~157.8; SPX ~7700s, VIX ~14.2."
+      ],
+      "body": "(prior brief body omitted from blob; point/content retained)"
+    },
+    {
+      "id": "2026-09-30",
+      "title": "Market brief — Wednesday 2026-09-30 7:30 ET",
+      "published": "2026-09-30",
+      "processed_at": "2026-09-30T07:33:00-04:00",
+      "point": "ADP, Q2 GDP third estimate and August PCE print this morning into quarter-end; NFP Friday. ASTS still has no company launch NET in 30d; TMC NOAA FR notices posted, certification still an October estimate.",
+      "watch": "Worth it",
+      "watch_why": "Stacked labor/inflation prints plus quarter-end can move rates and USDJPY; watchlist catalysts are dated windows, not today.",
+      "content": [
+        "Today 08:15 ADP then 08:30 GDP third + PCE/income/spending; claims + ISM mfg Thu; NFP Fri; ISM services Mon.",
+        "ASTS: no company-confirmed launch NET in 30d; BB14-16 production window only. TMC: NOAA FR publication confirmed; certification still ~Oct estimated.",
+        "Insiders: ASTS Yao 40k 10b5-1 and Gupta 12k sales (16 Sep) still in 14d window. TMC Hall RSU grant; Mallon award in 8-K. No TMC open-market.",
+        "Tape: 10y ~5.25%, 2y ~4.91%, 2s10s ~+34 bp; USDJPY ~157; SPX 7671 / ES +0.2%; IWM 279; VIX 16.0."
+      ],
+      "body": "# Market brief — Wednesday 2026-09-30 7:30 ET\n\n## Calendar — next 5 market days (chronological)\n**Wed 2026-09-30**\n- 08:15 ET — ADP employment change (Sep; cons. ~70k vs prior 38k) — private-payroll sneak peek\n- 08:30 ET — GDP third estimate (Q2; cons. ~1.5% QoQ SAAR vs 2.1% second) — growth revision\n- 08:30 ET — PCE / core PCE (Aug; cons. 0.4%/0.3% MoM, 3.7%/3.3% YoY) — Fed inflation gauge\n- 08:30 ET — Personal income / spending (Aug; cons. ~0.4% / ~0.8%) — demand pulse\n- Quarter-end — index futures / institutional rebalance — market-structure flow\n- 13:30–18:00 ET — Barkin, Cook, Goolsbee, Kashkari remarks — FOMC-adjacent tone\n\n**Thu 2026-10-01**\n- 08:30 ET — Initial jobless claims (week of Sep 26) — labor softness check\n- 10:00 ET — ISM Manufacturing PMI (Sep; cons. ~55 vs 54.6) — factory pulse\n- 10:00 ET — Construction spending (Aug) — building activity\n- afternoon — Williams / Cook on panels — voting-member tone\n\n**Fri 2026-10-02**\n- 08:30 ET — Nonfarm payrolls / unemployment (Sep; cons. ~100k / 4.1%) — labor print\n- 08:30 ET — Average hourly earnings (Sep; cons. 0.3% MoM) — wage inflation\n- 10:00 ET — Durable goods / factory orders (Aug) — capex follow-through\n\n**Mon 2026-10-05**\n- 10:00 ET — ISM Services PMI (Sep) — dominant-sector activity\n\n**Tue 2026-10-06**\n- 08:30 ET — International trade in goods and services (Aug) — external balance\n\n(CPI Oct 14; PPI/retail Oct 15; monthly equity OPEX Fri Oct 16. Next FOMC Oct 27–28; minutes Oct 7. No quad-witching in this window.)\n\n## Stock / catalysts — next 30 days\n**2026-09-29** — TMC — 8-K: Liam Mallon appointed director; NOAA FR publication of USA-A application and USA-B EIS NOI — confirmed.\n**~Oct 2026** — TMC — NOAA certification of USA-A — estimated.\n**Window overlapping next 30d** — ASTS — BB14-16 production / possible later Falcon 9 slot — inferred; no company NET in 30d.\n**2026-10-16** — IWM — monthly equity OPEX — confirmed.\nASTS: no dated events found in 30d.\nTMC: $11.50 warrants expired 2026-09-09. No additional firm ISA/vessel/Crucible dates in 30d.\n\n## Insiders — recently reported (ASTS, TMC)\nASTS: Yao (CTO) 10b5-1 sale 40,000 @ $58.93 on 16 Sep, remaining 34,750. Gupta (COO) sale 12,000 @ $58.89, remaining 462,980. Filed 17 Sep.\nTMC: Hall RSU 72,935 on 11 Sep; Mallon RSU awards in 8-K. No TMC open-market in 14d.\n\n## Rates and bonds\n10y ~5.24–5.26%; 2y ~4.89–4.94%; 10y–2y ~+32–37 bp (not inverted). 5y TIPS real ~2.72% vs 5y nominal ~5.06%; 5y BE ~2.34%; 10y BE ~2.35%. Real yields driving the backup; breakevens anchored near 2.3%.\n\n## USD/JPY\nSpot ~156.9–157.1 vs ~157.3 overnight. Off Sep 1 ~160, bounce from ~153.5 mid-month. No fresh BoJ intervention chatter.\n\n## Equities tape\nSPX 7,670.84 (−0.17%); ES +0.2%. Nasdaq 26,797.54; NDX ~30,339. IWM 279.01 (~8.6% below mid-Aug peak). VIX 16.04. Breadth not cleanly sourced pre-open; IWM lagging.\n\n## Names / themes only if material overnight\nTMC Sep 29 8-K (Mallon + NOAA FR). ASTS Sep 28 8-K was severance policy.\n\n## What actually matters this morning\n- ADP then GDP third + August PCE\n- Quarter-end flow\n- NFP Friday\n- TMC NOAA cert still October estimated\n- ASTS no dated launch today\n"
+    }
+  ]
+}
