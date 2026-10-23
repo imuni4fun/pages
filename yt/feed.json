@@ -4,9 +4,10 @@
     "url": "https://www.youtube.com/playlist?list=PLHHQ6hXdZyYU",
     "owner": "Jason Keller"
   },
-  "updated": "2026-10-21T12:16:15-04:00",
+  "updated": "2026-10-23T12:16:00-04:00",
   "count": 55,
   "videos": [
-    {"channel": "Meet Kevin", "title": "How Trump JUST Bailed out All Stocks & Crypto. Again.", "duration": "27:19", "url": "https://www.youtube.com/watch?v=FVM4MN7raH0", "published": "2026-09-18", "processed_at": "2026-09-21T22:35:00-04:00", "point": "SEC innovation exemption lets 1:1 tokenized stocks trade on-chain for 5 years without exchange registration or best-execution.", "content": ["No registered exchange / no NBBO duty on the token leg", "Timed days after Clarity Act stalled", "Brokers on crypto rails (Robinhood called out)"], "watch": "Skim", "watch_why": "The rule is the payload; first 5 minutes is recap."}
+    {"channel": "Meet Kevin", "title": "How Trump JUST Bailed out All Stocks & Crypto. Again.", "duration": "27:19", "url": "https://www.youtube.com/watch?v=FVM4MN7raH0", "published": "2026-09-18", "processed_at": "2026-09-21T22:35:00-04:00", "point": "SEC innovation exemption lets 1:1 tokenized stocks trade on-chain for 5 years without exchange registration or best-execution.", "content": ["No registered exchange / no NBBO duty on the token leg", "Timed days after Clarity Act stalled", "Brokers on crypto rails (Robinhood called out)"], "watch": "Skim", "watch_why": "The rule is the payload; first 5 minutes is recap."},
+    {"channel": "Cash Jordan", "title": "Iran Laughs \"TRUMP WON'T DO IT\"... Then Their Power Plants GET VAPORIZED", "duration": "19:54", "url": "https://www.youtube.com/watch?v=nVg7wAzqivU", "published": "2026-09-23", "processed_at": "2026-10-23T12:16:00-04:00", "point": "Iranian officials dismissed Trump's strike warning then power plants were vaporized in subsequent attacks.", "content": ["Specific power plant targets named", "Sequence of dismissal then strike", "Visuals of damage reported"], "watch": "Skim", "watch_why": "Title captures the punchline; body has the timeline."}
   ]
 }
