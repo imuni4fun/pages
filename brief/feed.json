@@ -1,1 +1,23 @@
-PLACEHOLDER_WILL_BE_REPLACED
+{
+  "feed": {"name": "Weekday market brief", "owner": "Jason"},
+  "updated": "2026-10-26T07:33:00-04:00",
+  "briefs": [
+    {
+      "id": "2026-10-26",
+      "title": "Market brief — Monday 2026-10-26 7:30 ET",
+      "published": "Monday 2026-10-26 7:30 ET",
+      "processed_at": "2026-10-26T07:33:00-04:00",
+      "point": "FOMC hold expected Wednesday; GDP/PCE Thursday; ASTS and TMC earnings next mid-November, no launch NET this window.",
+      "content": [
+        "FOMC rate decision Wednesday 14:00 ET, no SEP, hold widely priced.",
+        "Advance Q3 GDP and September PCE both Thursday 08:30 ET.",
+        "ASTS Q3 earnings estimated November 9 AMC; BB14-16 launch window unconfirmed.",
+        "TMC Q3 earnings estimated November 12 AMC; no Form 4 in 14 days.",
+        "10y near 4.98%, curve positive slope, USDJPY ~157."
+      ],
+      "watch": "Skim",
+      "watch_why": "Heavy mid-week data cluster after quiet Monday; watchlist names have only estimated earnings dates.",
+      "body": "# Market brief — Monday 2026-10-26 7:30 ET\n\n## Calendar — next 5 market days (chronological)\n\n**Mon 2026-10-26**\n- no major prints\n\n**Tue 2026-10-27**\n- 08:30 ET — Durable Goods Orders — manufacturing activity signal\n- 10:00 ET — Consumer Confidence — household sentiment read\n\n**Wed 2026-10-28**\n- 14:00 ET — FOMC rate decision — hold expected, no SEP\n- 14:30 ET — Powell press conference — policy path guidance\n\n**Thu 2026-10-29**\n- 08:30 ET — Advance Q3 GDP — growth pulse\n- 08:30 ET — Sep PCE / Core PCE — Fed preferred inflation\n- 08:30 ET — Initial Jobless Claims — labor tightness\n\n**Fri 2026-10-30**\n- 08:30 ET — Employment Cost Index Q3 — wage pressures\n- 09:45 ET — Chicago PMI — regional manufacturing\n\nNo OPEX this window; next monthly November 20.\n\n## Stock / catalysts — next 30 days\n\n**2026-11-09** — ASTS — Q3 2026 earnings AMC — estimated — MarketBeat/Zacks\n**2026-11-12** — TMC — Q3 2026 earnings AMC — estimated — MarketBeat/Zacks\n\nASTS: no firm launch NET published in 30d; trade reports indicate BB14-16 shipped toward Cape for possible late-October/early-November Falcon 9 window (inferred).\nTMC: no dated operational, ISA, NOAA, or Korea Zinc events found in 30d.\n\nNo published US-China, critical-minerals, ISA, or FCC spectrum meetings with agenda link in the window.\n\n## Insiders — recently reported (ASTS, TMC)\n\nASTS: Maya Bernal (Chief Accounting Officer) tax withhold (F) 3,935 Class A shares at $40.66 on Oct 17 (filed Oct 19), remaining direct 128,514. No open-market purchases or sales in the last 14 days.\nTMC: no Form 4/144 in last 14d.\n\n## Rates and bonds\n\n10y ~4.98% (little changed overnight), 2y ~4.69%, 10y–2y spread ~+29 bp (not inverted). 5y TIPS/breakeven not sourceable this morning; 5y/10y nominals imply sticky inflation. Growth remains solid while inflation is elevated; Fed hold priced at >90% for Wednesday.\n\n## USD/JPY\n\nSpot ~157.15, +0.2% overnight, still near recent highs. No fresh intervention or BoJ chatter this morning; US yields the main driver.\n\n## Equities tape\n\nSPX closed Friday 7,623.68 (-0.52% from prior), overnight futures +0.1–0.3%. QQQ roughly flat, IWM modestly higher. ATH distance not cleanly available; VIX ~19.5, contained elevated regime. Breadth/% above 50d not available overnight; equal-weight lagged in recent sessions.\n\n## Names / themes only if material overnight\n\nNo material headline, filing, or outsized move for ASTS, TMC, critical minerals, or space/spectrum overnight.\n\n## What actually matters this morning\n\n- Wednesday FOMC decision and Powell presser (hold expected; language on growth vs inflation).\n- Thursday 08:30 GDP advance + PCE cluster as post-FOMC confirmation.\n- Yields easing slightly into the meeting with positive curve.\n- ASTS estimated earnings November 9; no dated launch this week.\n- TMC estimated earnings November 12; insider activity quiet."
+    }
+  ]
+}
