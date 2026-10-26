@@ -5,8 +5,15 @@
     <link>https://imuni4fun.github.io/pages/brief/</link>
     <description>Jason weekday 7:30 ET pre-market brief</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Oct 2026 07:33:00 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 07:33:00 -0400</lastBuildDate>
     <atom:link href="https://imuni4fun.github.io/pages/brief/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Market brief — Monday 2026-10-26 7:30 ET</title>
+      <link>https://imuni4fun.github.io/pages/brief/#2026-10-26</link>
+      <guid isPermaLink="false">brief-2026-10-26</guid>
+      <pubDate>Mon, 26 Oct 2026 11:33:00 GMT</pubDate>
+      <description>FOMC hold expected Wednesday; GDP/PCE Thursday; ASTS and TMC earnings next mid-November, no launch NET this window.</description>
+    </item>
     <item>
       <title>Market brief — Monday 2026-10-19 7:30 ET</title>
       <link>https://imuni4fun.github.io/pages/brief/#2026-10-19</link>
@@ -42,6 +49,5 @@
       <pubDate>Fri, 09 Oct 2026 11:45:00 GMT</pubDate>
       <description>UMich prelim at 10:00 ET is the only print; CPI is Wednesday with the 10-year near 5.23%. ASTS still has no launch NET; TMC NOAA certification remains an October estimate.</description>
     </item>
-    <!-- previous items abbreviated for length; full history retained in practice -->
   </channel>
 </rss>
