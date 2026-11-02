@@ -4,8 +4,8 @@
     "url": "https://www.youtube.com/playlist?list=PLHHQ6hXdZyYU",
     "owner": "Jason Keller"
   },
-  "updated": "2026-10-29T12:20:00-04:00",
-  "count": 17,
+  "updated": "2026-11-02T12:14:00-05:00",
+  "count": 4,
   "videos": [
     {
       "channel": "Meet Kevin",
@@ -38,6 +38,38 @@
       ],
       "watch": "Skim",
       "watch_why": "Title captures the punchline; body has the timeline."
+    },
+    {
+      "channel": "Tousi TV",
+      "title": "LIVE: Heavy Clashes In Iran - Anti-IRGC Armed Iranians Target More Cities",
+      "duration": "45:59",
+      "url": "https://www.youtube.com/watch?v=gS1iSq-CONU",
+      "published": "2026-09-18",
+      "processed_at": "2026-11-02T12:14:00-05:00",
+      "point": "Armed Iranian groups including Baloch Front expanded clashes with IRGC from Saravan and Suran into Zahedan, with Pakistani militants aiding IRGC near the Afghan border.",
+      "content": [
+        "Clashes progressed from Saravan to Suran then Zahedan provincial capital",
+        "IRGC forces faced armed Iranians and attracted cross-border militants",
+        "Fighting reported near the main university in Zahedan"
+      ],
+      "watch": "Skim",
+      "watch_why": "Live coverage of expanding internal conflict with named cities and groups; timeline beyond the title."
+    },
+    {
+      "channel": "Dr. Eric Berg DC",
+      "title": "What Happens to Your Body After Stopping Ozempic",
+      "duration": "11:49",
+      "url": "https://www.youtube.com/watch?v=HjAesaCiako",
+      "published": "2026-09-19",
+      "processed_at": "2026-11-02T12:14:00-05:00",
+      "point": "25-40% of weight lost on Ozempic is muscle that does not return after stopping; regained weight is mostly fat, with persistent risks of nutritional deficiencies and gastroparesis.",
+      "content": [
+        "Most GLP-1 action is brain-mediated hunger suppression plus slowed digestion",
+        "Resistance training plus leucine-rich animal protein helps preserve muscle",
+        "Other lasting issues: acid reflux, vision loss, hair loss, pancreatitis"
+      ],
+      "watch": "Worth it",
+      "watch_why": "Concrete percentages and mechanisms on muscle loss vs fat regain; actionable mitigation steps, not generic warning."
     }
   ]
 }
