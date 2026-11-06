@@ -4,8 +4,8 @@
     "url": "https://www.youtube.com/playlist?list=PLHHQ6hXdZyYU",
     "owner": "Jason Keller"
   },
-  "updated": "2026-11-05T12:15:00-05:00",
-  "count": 15,
+  "updated": "2026-11-06T12:16:00-05:00",
+  "count": 18,
   "videos": [
     {
       "channel": "Meet Kevin",
@@ -246,6 +246,54 @@
       ],
       "watch": "Skim",
       "watch_why": "Names the concrete company and financing channel; overlaps prior private-credit black-swan warnings."
+    },
+    {
+      "channel": "Meet Kevin",
+      "title": "The Oil & Iran Situation JUST got Really Bad.",
+      "duration": "21:25",
+      "url": "https://www.youtube.com/watch?v=VXfzcEdZhQE",
+      "published": "2026-09-20",
+      "processed_at": "2026-11-06T12:16:00-05:00",
+      "point": "Oil sits above $107 with Hormuz exports down and strategic reserves depleting, setting up a potential price spike once China returns to the open market.",
+      "content": [
+        "Bernstein estimates 12 million bpd supply lost over six months",
+        "US and China SPR capacity limited, artificially suppressing prices",
+        "Situation described as rock-bottom for deal optimism"
+      ],
+      "watch": "Skim",
+      "watch_why": "Concrete export and reserve numbers; overlaps prior Hormuz and oil updates."
+    },
+    {
+      "channel": "Meet Kevin",
+      "title": "WARNING: The Two Paths to Recession.",
+      "duration": "25:44",
+      "url": "https://www.youtube.com/watch?v=S3U8mVvbqYw",
+      "published": "2026-09-18",
+      "processed_at": "2026-11-06T12:16:00-05:00",
+      "point": "AI profitability canary plus labor-market weakness create two distinct recession paths even while stocks remain elevated.",
+      "content": [
+        "Chapters cover AI canary, labor concerns, and adoption studies",
+        "Recession catalysts from AI slowdown or credit stress",
+        "Current stock strength papering over underlying risks"
+      ],
+      "watch": "Skim",
+      "watch_why": "Recurring recession warning with named AI and labor mechanisms; overlaps prior black-swan notes."
+    },
+    {
+      "channel": "Graham Stephan",
+      "title": "How The US Is Quietly Erasing The $39 Trillion National Debt",
+      "duration": "18:02",
+      "url": "https://www.youtube.com/watch?v=rRumSzwsaRw",
+      "published": "2026-06-01",
+      "processed_at": "2026-11-06T12:16:00-05:00",
+      "point": "Fed under Warsh plans to shrink the real debt burden via inflation and balance-sheet reduction without default or austerity.",
+      "content": [
+        "Interest below inflation (example 2.5% vs 6%) erodes real debt 3.5% per year",
+        "Post-WWII financial repression precedent",
+        "Warsh thesis: shrink Fed balance sheet to lower the inflation risk premium and rates"
+      ],
+      "watch": "Worth it",
+      "watch_why": "Concrete inflation-erosion mechanism and numbers; actionable context for savers beyond 'debt is high'."
     }
   ]
 }
