@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Jason's Pre-Market Brief</title>
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="rss.xml" />
+</head>
+<body>
+  <h1>Jason's Pre-Market Brief</h1>
+  <p>Weekday 7:30 AM ET pre-market briefs. <a href="rss.xml">RSS feed</a> | <a href="feed.json">JSON feed</a></p>
+  <div id="briefs"></div>
+  <script>
+    fetch('feed.json').then(r => r.json()).then(briefs => {
+      const div = document.getElementById('briefs');
+      briefs.forEach(b => {
+        const el = document.createElement('article');
+        el.innerHTML = `<h2>${b.title}</h2><p>${b.point}</p><ul>${b.content.map(c => `<li>${c}</li>`).join('')}</ul><p><strong>Watch:</strong> ${b.watch} — ${b.watch_why}</p><pre>${b.body}</pre>`;
+        div.appendChild(el);
+      });
+    });
+  </script>
+</body>
+</html>
