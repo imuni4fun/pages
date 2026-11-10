@@ -4,8 +4,8 @@
     "url": "https://www.youtube.com/playlist?list=PLHHQ6hXdZyYU",
     "owner": "Jason Keller"
   },
-  "updated": "2026-11-07T12:15:00-05:00",
-  "count": 22,
+  "updated": "2026-11-10T12:25:00-05:00",
+  "count": 6,
   "videos": [
     {
       "channel": "Meet Kevin",
@@ -38,6 +38,73 @@
       ],
       "watch": "Skim",
       "watch_why": "Title captures the punchline; body has the timeline."
+    },
+    {
+      "channel": "Tousi TV",
+      "title": "LIVE: Heavy Clashes In Iran - Anti-IRGC Armed Iranians Target More Cities",
+      "duration": "45:59",
+      "url": "https://www.youtube.com/watch?v=gS1iSq-CONU",
+      "published": "2026-09-18",
+      "processed_at": "2026-11-10T12:25:00-05:00",
+      "point": "Baloch armed groups in Sistan-Baluchistan advanced on Zahedan after IRGC losses in Saravan and Suran, drawing in Pakistani militants.",
+      "content": [
+        "Clashes around Saravan then Suran then Zahedan",
+        "IRGC had to withdraw after heavy losses in southeast",
+        "University area fighting reported in Zahedan"
+      ],
+      "watch": "Skim",
+      "watch_why": "Live recap of specific southeast Iran fighting; first half has the sequence."
+    },
+    {
+      "channel": "Dr. Eric Berg DC",
+      "title": "What Happens to Your Body After Stopping Ozempic",
+      "duration": "11:49",
+      "url": "https://www.youtube.com/watch?v=HjAesaCiako",
+      "published": "2026-09-19",
+      "processed_at": "2026-11-10T12:25:00-05:00",
+      "point": "Stopping Ozempic causes 25-40% of weight loss to be muscle, rapid fat regain, gastroparesis symptoms, and possible vision loss as appetite returns within a week.",
+      "content": [
+        "25\u201340% of Ozempic weight loss is muscle",
+        "Appetite returns within about a week",
+        "Risks include gastroparesis, pancreatitis, and vision issues",
+        "Resistance training + leucine helps protect muscle"
+      ],
+      "watch": "Worth it",
+      "watch_why": "Concrete percentages and mechanisms for post-GLP-1 body changes; checklist of risks."
+    },
+    {
+      "channel": "Bob Travis",
+      "title": "Cast Iron Leaving Black Residue? It's Not Your Seasoning",
+      "duration": "9:38",
+      "url": "https://www.youtube.com/watch?v=OmJaKv9tWhk",
+      "published": "2026-08-29",
+      "processed_at": "2026-11-10T12:25:00-05:00",
+      "point": "Black residue on cast iron is usually carbonized food, not a failed seasoning layer.",
+      "content": [
+        "Residue is carbon from overheated oil or food",
+        "Wash with soap and stiff brush to remove",
+        "Turn down heat to prevent new buildup",
+        "No oil needed for storage after proper clean"
+      ],
+      "watch": "Worth it",
+      "watch_why": "Direct mechanism and steps; replaces watching the cleaning demo."
+    },
+    {
+      "channel": "Veritasium",
+      "title": "Something is jamming GPS over Europe. Here's what we found",
+      "duration": "34:17",
+      "url": "https://www.youtube.com/watch?v=tz23G_UXCGA",
+      "published": "2026-06-05",
+      "processed_at": "2026-11-10T12:25:00-05:00",
+      "point": "Russian early-warning satellites including Cosmos 2546 have been jamming GPS signals over Europe since 2019.",
+      "content": [
+        "Interference detected across Europe to Svalbard and Spain",
+        "Source traced to Edinaya Kosmicheskaya Sistema constellation",
+        "Used time-difference-of-arrival and wideband samples",
+        "Possible secret messaging or intentional degradation"
+      ],
+      "watch": "Worth it",
+      "watch_why": "Investigation method and satellite ID are the payload; not just the title claim."
     }
   ]
 }
