@@ -4,8 +4,8 @@
     "url": "https://www.youtube.com/playlist?list=PLHHQ6hXdZyYU",
     "owner": "Jason Keller"
   },
-  "updated": "2026-11-10T12:25:00-05:00",
-  "count": 6,
+  "updated": "2026-11-11T12:17:00-05:00",
+  "count": 8,
   "videos": [
     {
       "channel": "Meet Kevin",
@@ -105,6 +105,39 @@
       ],
       "watch": "Worth it",
       "watch_why": "Investigation method and satellite ID are the payload; not just the title claim."
+    },
+    {
+      "channel": "Sentinel Economics",
+      "title": "Why The U.S. Diesel Crisis Begins in 2 Weeks",
+      "duration": "9:01",
+      "url": "https://www.youtube.com/watch?v=eKME1vhLQGs",
+      "published": "2026-09-18",
+      "processed_at": "2026-11-11T12:17:00-05:00",
+      "point": "U.S. diesel inventories available for drawdown have plunged to nearly half of historical norms just before harvest and fall freight demand peak.",
+      "content": [
+        "Harvest season and fall freight hit in two weeks",
+        "Inventories near operational minimums",
+        "Potential for severe price shock in October-November"
+      ],
+      "watch": "Worth it",
+      "watch_why": "Concrete inventory numbers and timing relative to demand peak; replaces the chart walkthrough."
+    },
+    {
+      "channel": "Tabassum Shaikh",
+      "title": "IRGC Mobilizes 313,000 Troops As Trump Weighs MASSIVE Iran Strikes",
+      "duration": "29:25",
+      "url": "https://www.youtube.com/watch?v=YZ5P7nBEubA",
+      "published": "2026-09-22",
+      "processed_at": "2026-11-11T12:17:00-05:00",
+      "point": "Iranian authorities claimed 313,000 volunteers in Tehran Janfada mobilization, mostly civilians for limited training, not active IRGC troops, as Trump weighs strikes.",
+      "content": [
+        "313 is symbolic number in Shia for Mahdi companions",
+        "Volunteers to receive limited military training",
+        "Figures not independently verified",
+        "Coincided with Trump comments on possible strikes"
+      ],
+      "watch": "Skim",
+      "watch_why": "Separates verified reporting from headline claim; first half has the distinction."
     }
   ]
 }
