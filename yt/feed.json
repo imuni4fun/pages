@@ -4,8 +4,8 @@
     "url": "https://www.youtube.com/playlist?list=PLHHQ6hXdZyYU",
     "owner": "Jason Keller"
   },
-  "updated": "2026-11-11T12:17:00-05:00",
-  "count": 8,
+  "updated": "2026-11-12T12:17:00-05:00",
+  "count": 10,
   "videos": [
     {
       "channel": "Meet Kevin",
@@ -138,6 +138,40 @@
       ],
       "watch": "Skim",
       "watch_why": "Separates verified reporting from headline claim; first half has the distinction."
+    },
+    {
+      "channel": "Meet Kevin",
+      "title": "Trump Issues NEW WARNING | Iran Tankers Struck AGAIN",
+      "duration": "16:43",
+      "url": "https://www.youtube.com/watch?v=HQTGvFMVNRQ",
+      "published": "2026-09-18",
+      "processed_at": "2026-11-12T12:17:00-05:00",
+      "point": "Trump issued a new warning after Iranian tankers were struck again, with three aircraft carriers locked and loaded and 38 bridges targeted for potential rapid destruction.",
+      "content": [
+        "US struck Iranian government tankers north of blockade line",
+        "Trump: three carriers fully locked and loaded",
+        "38 bridges can be knocked down in one hour",
+        "Diplomatic summit upcoming amid escalation"
+      ],
+      "watch": "Skim",
+      "watch_why": "Headline warning and specific numbers are the payload; market recap is padding."
+    },
+    {
+      "channel": "Max Afterburner",
+      "title": "IRGC Is Suddenly Being ATTACKED From Within Iran",
+      "duration": "19:44",
+      "url": "https://www.youtube.com/watch?v=pJ3FVHV26s0",
+      "published": "2026-09-19",
+      "processed_at": "2026-11-12T12:17:00-05:00",
+      "point": "Hours-long firefight erupted in Zahedan involving Baluch militants like Jaish al-Adl, with no verified external sponsor, while IRGC faces internal security pressure.",
+      "content": [
+        "Firefight in Zahedan after previous southeast losses",
+        "Jaish al-Adl and Baluch groups possible actors",
+        "No verified evidence of outside power involvement",
+        "Also covers Pickaxe Mountain activity and Saudi-Houthi alerts"
+      ],
+      "watch": "Skim",
+      "watch_why": "Distinguishes known internal clashes from unconfirmed external links; sequence in first half."
     }
   ]
 }
