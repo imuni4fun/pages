@@ -4,8 +4,8 @@
     "url": "https://www.youtube.com/playlist?list=PLHHQ6hXdZyYU",
     "owner": "Jason Keller"
   },
-  "updated": "2026-11-12T12:17:00-05:00",
-  "count": 10,
+  "updated": "2026-11-13T12:18:00-05:00",
+  "count": 15,
   "videos": [
     {
       "channel": "Meet Kevin",
@@ -172,6 +172,91 @@
       ],
       "watch": "Skim",
       "watch_why": "Distinguishes known internal clashes from unconfirmed external links; sequence in first half."
+    },
+    {
+      "channel": "Benny Johnson",
+      "title": "Trump Just CANCELED His Schedule, Locked Himself In Camp David, Promises Something BIG Is Happening\u2026",
+      "duration": "9:35",
+      "url": "https://www.youtube.com/watch?v=8KzB-LYR6Qs",
+      "published": "2026-09-19",
+      "processed_at": "2026-11-13T12:18:00-05:00",
+      "point": "Trump replaced a packed Friday schedule with full weekend Executive Time at Camp David to weigh whether new Iran strikes will annihilate the regime.",
+      "content": [
+        "No press allowed at Camp David; off-grid military retreat",
+        "Trump said he is at a crossroads on wiping out the Iranian regime",
+        "Signaled massive changes in the Middle East",
+        "Returned earlier than planned then visited golf club"
+      ],
+      "watch": "Skim",
+      "watch_why": "Schedule change and Trump quote are the signal; body is speculation on brass and outcomes."
+    },
+    {
+      "channel": "My Tech Fun",
+      "title": "IPCON PPA-CF vs PPA-GF: One Is the Strongest Filament I've Ever Tested",
+      "duration": "22:50",
+      "url": "https://www.youtube.com/watch?v=MxEZZ7XkV_M",
+      "published": "2026-09-18",
+      "processed_at": "2026-11-13T12:18:00-05:00",
+      "point": "IPCON PPA-CF reaches 256 MPa flexural strength and ~11 GPa modulus, beating PPA-GF in tensile, bending, and shear when printed slowly and annealed.",
+      "content": [
+        "Tests cover tensile, layer adhesion, shear, torsion, bending, impact, creep",
+        "CF stronger in horizontal prints; slow speeds critical",
+        "Heat deflection >220\u00b0C short-term; low moisture degradation",
+        "PPA-GF more balanced for toughness and insulation"
+      ],
+      "watch": "Worth it",
+      "watch_why": "Direct numbers and identical test methodology replace the lab footage."
+    },
+    {
+      "channel": "Veritasium",
+      "title": "The Closest Thing We Have to Alien Technology",
+      "duration": "55:00",
+      "url": "https://www.youtube.com/watch?v=MiUHjLxm3V0",
+      "published": "2025-12-31",
+      "processed_at": "2026-11-13T12:18:00-05:00",
+      "point": "ASML's $400 million EUV lithography machines fire 13.5 nm extreme ultraviolet light from laser-produced tin plasma to pattern transistors below 10 nm.",
+      "content": [
+        "Solved the Moore's Law bottleneck below 10 nm",
+        "Light source uses tin droplets and high-power lasers",
+        "ASML holds the monopoly on these machines",
+        "Customers include TSMC, Samsung, Intel"
+      ],
+      "watch": "Worth it",
+      "watch_why": "EUV mechanism, light-source physics, and company history are the payload beyond the title."
+    },
+    {
+      "channel": "Autism From The Inside",
+      "title": "One Polyvagal Trick Cured My Fatigue Overnight (No Seriously - I Didn\u2019t Believe It Either!)",
+      "duration": "7:21",
+      "url": "https://www.youtube.com/watch?v=PiSBWV78oH8",
+      "published": "2026-06-11",
+      "processed_at": "2026-11-13T12:18:00-05:00",
+      "point": "One polyvagal therapy session with Holly Bridges shifted the nervous system so relaxation no longer triggered sleep, ending decades of idiopathic hypersomnia-like daytime fatigue.",
+      "content": [
+        "Previously fell asleep in 5 minutes despite 8-10 hours night sleep",
+        "Nervous system equated relaxation with shutdown",
+        "Now can rest while staying alert",
+        "Not willpower or supplement based"
+      ],
+      "watch": "Worth it",
+      "watch_why": "Specific mechanism of the single session and before/after distinction replace the personal story."
+    },
+    {
+      "channel": "The Action Lab",
+      "title": "The Hidden Danger Inside Every Candle",
+      "duration": "7:18",
+      "url": "https://www.youtube.com/watch?v=hpgV6KKdzGM",
+      "published": "2025-11-28",
+      "processed_at": "2026-11-13T12:18:00-05:00",
+      "point": "Paraffin wax vapor autoignites at ~225\u00b0C once boiling (~370\u00b0C) because oxygen mixes at the top, and water on superheated wax triggers steam explosions that launch fireballs.",
+      "content": [
+        "Autoignition temperature of wax vapor lower than boiling point",
+        "Hairline cracks in containers leak jets that flash-boil water",
+        "Fire starts at the top where vapor meets oxygen, not at water contact",
+        "Pouring water on a burning candle can create a fireball"
+      ],
+      "watch": "Worth it",
+      "watch_why": "Physics of autoignition and steam expansion explain the danger; replaces the experiment footage."
     }
   ]
 }
