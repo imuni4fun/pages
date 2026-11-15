@@ -4,8 +4,8 @@
     "url": "https://www.youtube.com/playlist?list=PLHHQ6hXdZyYU",
     "owner": "Jason Keller"
   },
-  "updated": "2026-11-13T12:18:00-05:00",
-  "count": 15,
+  "updated": "2026-11-15T12:17:00-05:00",
+  "count": 5,
   "videos": [
     {
       "channel": "Meet Kevin",
@@ -38,6 +38,54 @@
       ],
       "watch": "Skim",
       "watch_why": "Title captures the punchline; body has the timeline."
+    },
+    {
+      "channel": "Tousi TV",
+      "title": "LIVE: Heavy Clashes In Iran - Anti-IRGC Armed Iranians Target More Cities",
+      "duration": "45:59",
+      "url": "https://www.youtube.com/watch?v=gS1iSq-CONU",
+      "published": "2026-09-18",
+      "processed_at": "2026-11-15T12:17:00-05:00",
+      "point": "Baloch armed groups in Sistan-Baluchistan advanced from Saravan/Suran to Zahedan, engaging IRGC in provincial capital streets and near university.",
+      "content": [
+        "Largest mobilization in southeast near Pakistan border",
+        "IRGC drew militants from Pakistan/Afghanistan for Zahedan defense",
+        "Regime suffered losses; shameful withdrawal reported"
+      ],
+      "watch": "Skim",
+      "watch_why": "Live updates on specific city movements and IRGC response; core claim is territorial advance not general unrest."
+    },
+    {
+      "channel": "Meet Kevin",
+      "title": "Trump Issues NEW WARNING | Iran Tankers Struck AGAIN",
+      "duration": "16:43",
+      "url": "https://www.youtube.com/watch?v=HQTGvFMVNRQ",
+      "published": "2026-09-18",
+      "processed_at": "2026-11-15T12:17:00-05:00",
+      "point": "Trump renewed annihilation threats as Iranian tankers and shipping in Strait of Hormuz were struck amid stalled talks.",
+      "content": [
+        "Escalation in Strait after prior pauses",
+        "Diplomatic summit upcoming; negotiation strategy discussed",
+        "Market and investment risk from regional strikes"
+      ],
+      "watch": "Skim",
+      "watch_why": "Warning language matches body on tanker strikes and Hormuz; first minutes recap markets."
+    },
+    {
+      "channel": "Dr. Eric Berg DC",
+      "title": "What Happens to Your Body After Stopping Ozempic",
+      "duration": "11:49",
+      "url": "https://www.youtube.com/watch?v=HjAesaCiako",
+      "published": "2026-09-19",
+      "processed_at": "2026-11-15T12:17:00-05:00",
+      "point": "25-40% of Ozempic weight loss is muscle; after stopping, regained weight is mostly fat and muscle does not return, slowing metabolism.",
+      "content": [
+        "GLP-1 acts on brain to cut hunger and slows digestion",
+        "Side effects persist: gastroparesis, vision/hair loss, deficiencies, pancreatitis",
+        "Counter with resistance training + leucine-rich animal protein"
+      ],
+      "watch": "Worth it",
+      "watch_why": "Concrete mechanism and percentage on muscle loss plus actionable protocol; not just side-effect list."
     }
   ]
 }
