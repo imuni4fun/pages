@@ -1,1 +1,219 @@
-PLACEHOLDER
+{
+  "playlist": {
+    "name": "Grok",
+    "url": "https://www.youtube.com/playlist?list=PLHHQ6hXdZyYU",
+    "owner": "Jason Keller"
+  },
+  "updated": "2026-11-17T12:20:00-05:00",
+  "count": 13,
+  "videos": [
+    {
+      "channel": "Meet Kevin",
+      "title": "How Trump JUST Bailed out All Stocks & Crypto. Again.",
+      "duration": "27:19",
+      "url": "https://www.youtube.com/watch?v=FVM4MN7raH0",
+      "published": "2026-09-18",
+      "processed_at": "2026-09-21T22:35:00-04:00",
+      "point": "SEC innovation exemption lets 1:1 tokenized stocks trade on-chain for 5 years without exchange registration or best-execution.",
+      "content": [
+        "No registered exchange / no NBBO duty on the token leg",
+        "Timed days after Clarity Act stalled",
+        "Brokers on crypto rails (Robinhood called out)"
+      ],
+      "watch": "Skim",
+      "watch_why": "The rule is the payload; first 5 minutes is recap."
+    },
+    {
+      "channel": "Cash Jordan",
+      "title": "Iran Laughs \"TRUMP WON'T DO IT\"... Then Their Power Plants GET VAPORIZED",
+      "duration": "19:54",
+      "url": "https://www.youtube.com/watch?v=nVg7wAzqivU",
+      "published": "2026-09-23",
+      "processed_at": "2026-10-23T12:16:00-04:00",
+      "point": "Iranian officials dismissed Trump's strike warning then power plants were vaporized in subsequent attacks.",
+      "content": [
+        "Specific power plant targets named",
+        "Sequence of dismissal then strike",
+        "Visuals of damage reported"
+      ],
+      "watch": "Skim",
+      "watch_why": "Title captures the punchline; body has the timeline."
+    },
+    {
+      "channel": "Tousi TV",
+      "title": "LIVE: Heavy Clashes In Iran - Anti-IRGC Armed Iranians Target More Cities",
+      "duration": "45:59",
+      "url": "https://www.youtube.com/watch?v=gS1iSq-CONU",
+      "published": "2026-09-18",
+      "processed_at": "2026-11-15T12:17:00-05:00",
+      "point": "Baloch armed groups in Sistan-Baluchistan advanced from Saravan/Suran to Zahedan, engaging IRGC in provincial capital streets and near university.",
+      "content": [
+        "Largest mobilization in southeast near Pakistan border",
+        "IRGC drew militants from Pakistan/Afghanistan for Zahedan defense",
+        "Regime suffered losses; shameful withdrawal reported"
+      ],
+      "watch": "Skim",
+      "watch_why": "Live updates on specific city movements and IRGC response; core claim is territorial advance not general unrest."
+    },
+    {
+      "channel": "Meet Kevin",
+      "title": "Trump Issues NEW WARNING | Iran Tankers Struck AGAIN",
+      "duration": "16:43",
+      "url": "https://www.youtube.com/watch?v=HQTGvFMVNRQ",
+      "published": "2026-09-18",
+      "processed_at": "2026-11-15T12:17:00-05:00",
+      "point": "Trump renewed annihilation threats as Iranian tankers and shipping in Strait of Hormuz were struck amid stalled talks.",
+      "content": [
+        "Escalation in Strait after prior pauses",
+        "Diplomatic summit upcoming; negotiation strategy discussed",
+        "Market and investment risk from regional strikes"
+      ],
+      "watch": "Skim",
+      "watch_why": "Warning language matches body on tanker strikes and Hormuz; first minutes recap markets."
+    },
+    {
+      "channel": "Dr. Eric Berg DC",
+      "title": "What Happens to Your Body After Stopping Ozempic",
+      "duration": "11:49",
+      "url": "https://www.youtube.com/watch?v=HjAesaCiako",
+      "published": "2026-09-19",
+      "processed_at": "2026-11-15T12:17:00-05:00",
+      "point": "25-40% of Ozempic weight loss is muscle; after stopping, regained weight is mostly fat and muscle does not return, slowing metabolism.",
+      "content": [
+        "GLP-1 acts on brain to cut hunger and slows digestion",
+        "Side effects persist: gastroparesis, vision/hair loss, deficiencies, pancreatitis",
+        "Counter with resistance training + leucine-rich animal protein"
+      ],
+      "watch": "Worth it",
+      "watch_why": "Concrete mechanism and percentage on muscle loss plus actionable protocol; not just side-effect list."
+    },
+    {
+      "channel": "Max Afterburner",
+      "title": "IRGC Mobilizes 313,000 Troops As Trump Weighs MASSIVE Iran Strikes",
+      "duration": "18:50",
+      "url": "https://www.youtube.com/watch?v=lTU_cuLtupw",
+      "published": "2026-09-18",
+      "processed_at": "2026-11-16T12:17:00-05:00",
+      "point": "IRGC staged a government-organized 313,000-person Janfada “Sacrifice for Iran” mobilization in Tehran while Trump faces a “big decision” on resuming major strikes after claimed tanker attacks in the Strait of Hormuz.",
+      "content": [
+        "Mobilization draws on Shia symbolism of 313 companions of the Mahdi",
+        "Includes analysis of F-16/F/A-18 imagery and carrier ops for US readiness",
+        "Covers concurrent Saudi/Houthi fighting and Russia missile drills"
+      ],
+      "watch": "Skim",
+      "watch_why": "Concrete mobilization number and Hormuz context; body mixes analysis with broader conflict roundup."
+    },
+    {
+      "channel": "Veritasium",
+      "title": "Something is jamming GPS over Europe. Here's what we found",
+      "duration": "34:17",
+      "url": "https://www.youtube.com/watch?v=tz23G_UXCGA",
+      "published": "2026-06-05",
+      "processed_at": "2026-11-16T12:17:00-05:00",
+      "point": "GPS interference over Europe, Greenland, and Canada traced to a constellation of Russian early-warning satellites in Molniya orbits, including Cosmos 2546.",
+      "content": [
+        "Research by Todd Humphreys and Zach Clements at UT Austin",
+        "Events documented 2019–2026; source narrowed via satellite tracking",
+        "Implications for aviation and loss of GPS resilience discussed"
+      ],
+      "watch": "Worth it",
+      "watch_why": "Clear mechanism identification with named researchers and satellite culprit; not just 'something is jamming'."
+    },
+    {
+      "channel": "Bob Travis",
+      "title": "Cast Iron Leaving Black Residue? It's Not Your Seasoning",
+      "duration": "9:38",
+      "url": "https://www.youtube.com/watch?v=OmJaKv9tWhk",
+      "published": "2026-08-29",
+      "processed_at": "2026-11-16T12:17:00-05:00",
+      "point": "Black residue on cast iron is usually carbonized food or loose carbon, not a failed seasoning layer.",
+      "content": [
+        "Caused by high heat carbonizing residue; fix by lowering heat",
+        "Clean with soap and sturdy brush rather than stripping",
+        "Most cases are normal carbon shedding during wipe-down"
+      ],
+      "watch": "Worth it",
+      "watch_why": "Direct mechanism and simple protocol that prevents unnecessary stripping; matches common shop question."
+    },
+    {
+      "channel": "My Tech Fun",
+      "title": "IPCON PPA-CF vs PPA-GF: One Is the Strongest Filament I've Ever Tested",
+      "duration": "22:49",
+      "url": "https://www.youtube.com/watch?v=MxEZZ7XkV_M",
+      "published": "2026-09-18",
+      "processed_at": "2026-11-16T12:17:00-05:00",
+      "point": "IPCON PPA-CF shows higher bending strength and stiffness than PPA-GF in tensile, shear, impact, and print tests when printed slower than advertised speeds.",
+      "content": [
+        "Compared brittleness, moisture, shrinkage, layer adhesion, creep",
+        "Horizontal prints and annealing effects tested",
+        "CF version edges GF in load-bearing metrics"
+      ],
+      "watch": "Skim",
+      "watch_why": "Specific test numbers and material comparison useful for 3D print shop; full 22 min for all graphs."
+    },
+    {
+      "channel": "NightHawkInLight",
+      "title": "Electricity Does Not \"Split\" H₂O. And That's VERY Useful.",
+      "duration": "41:20",
+      "url": "https://www.youtube.com/watch?v=eq7fR9ISuCw",
+      "published": "2026-06-03",
+      "processed_at": "2026-11-16T12:17:00-05:00",
+      "point": "Water electrolysis produces acid at the anode and base at the cathode via separate reactions, not a simple one-step H₂O split, which explains separated gas evolution.",
+      "content": [
+        "Electron addition at cathode liberates H₂ and leaves OH⁻",
+        "Mixing chambers neutralizes the acid and base",
+        "Useful for understanding why gases bubble separately"
+      ],
+      "watch": "Worth it",
+      "watch_why": "Corrects common misconception with concrete electrode chemistry; high production value on mechanism."
+    },
+    {
+      "channel": "Max Afterburner",
+      "title": "IRGC Is Suddenly Being ATTACKED From Within Iran",
+      "duration": "19:44",
+      "url": "https://www.youtube.com/watch?v=pJ3FVHV26s0",
+      "published": "2026-09-19",
+      "processed_at": "2026-11-17T12:20:00-05:00",
+      "point": "IRGC faced an hours-long firefight in Zahedan from Jaish al-Adl Baluch militants with no verified foreign backing, while Pickaxe Mountain activity and Saudi-Houthi aerial threats continued.",
+      "content": [
+        "Firefight in Zahedan raises questions on Jaish al-Adl weapons sources",
+        "No verified evidence of outside power involvement",
+        "Concurrent Saudi aerial-threat warnings and smoke near King Khalid airport"
+      ],
+      "watch": "Skim",
+      "watch_why": "Specific location and group named with context on internal vs external; body includes broader roundup."
+    },
+    {
+      "channel": "Benny Johnson",
+      "title": "Trump Just CANCELED His Schedule, Locked Himself In Camp David, Promises Something BIG Is Happening…",
+      "duration": "9:35",
+      "url": "https://www.youtube.com/watch?v=8KzB-LYR6Qs",
+      "published": "2026-09-19",
+      "processed_at": "2026-11-17T12:20:00-05:00",
+      "point": "Trump cleared his schedule for a full day at Camp David as he weighed a 'big decision' on whether new Iran strikes would annihilate the regime or end the war.",
+      "content": [
+        "Shifted from packed Friday schedule to executive time at Camp David",
+        "Stated crossroads on wiping out regime or bringing war to end",
+        "No press allowed at the isolated retreat"
+      ],
+      "watch": "Skim",
+      "watch_why": "Schedule change and exact Trump wording on annihilation vs end are the concrete payload."
+    },
+    {
+      "channel": "YGK3D",
+      "title": "The 3D Printing VFA Epidemic",
+      "duration": "16:15",
+      "url": "https://www.youtube.com/watch?v=ZrW8OfJ_UOo",
+      "published": "2025-11-06",
+      "processed_at": "2026-11-17T12:20:00-05:00",
+      "point": "Vertical fine artifacts (VFAs) on modern 3D printers come from motor resonance, polygon/belt effects, and idler artifacts, fixable by 0.9° steppers, belt choice, and speed tuning.",
+      "content": [
+        "Type 1: motor resonance from stepper discreteness",
+        "Type 2: polygon effect from belt teeth meshing",
+        "Prusa uses 0.9° steppers and specific belt tension to mitigate"
+      ],
+      "watch": "Worth it",
+      "watch_why": "Breaks down three distinct mechanical causes with mitigation steps relevant to shop printers."
+    }
+  ]
+}
