@@ -1,1 +1,19 @@
-PLACEHOLDER_TO_BE_REPLACED
+[
+  {
+    "id": "2026-11-20",
+    "title": "Market brief — Friday 2026-11-20 7:30 ET",
+    "published": "2026-11-20T07:30:00-05:00",
+    "processed_at": "2026-11-20T07:36:00-05:00",
+    "point": "Monthly OPEX and final Michigan Sentiment set the vol and consumer tone after a sixth straight SPX loss; ASTS remains without a dated launch in 30d while TMC awaits mid-December NOAA certification window.",
+    "content": [
+      "OPEX today and UMich final at 10:00 ET; next major is Wed GDP/PCE.",
+      "10y ~5.05%, 2y ~4.78%, spread +27bp (not inverted); 5y5y ~2.12%.",
+      "SPX closed 7176 (-2%), VIX 28.4; IWM ~264 (-2.2%).",
+      "ASTS: no dated launch/spectrum in 30d (ships end-Nov window, service end-2026); TMC: NOAA mid-Dec certification window (not permit).",
+      "ASTS CTO option exercise Nov 19 (not open-market); TMC no Form 4 in 14d."
+    ],
+    "watch": "Worth it",
+    "watch_why": "OPEX gamma and Wed data can move rates and index vol; TMC NOAA window is the nearest dated watchlist catalyst.",
+    "body": "# Market brief — Friday 2026-11-20 7:30 ET\n\n## Calendar — next 5 market days (chronological)\n**Fri 2026-11-20**\n- All session — Monthly OPEX (equity, ETF, index options; SPX AM/PM) — gamma pin / vol reset\n- 10:00 ET — UMich Sentiment final Nov — consumer confidence (prelim 51.0)\n\n**Mon 2026-11-23**\n- no major prints\n\n**Tue 2026-11-24**\n- 10:00 ET — Conference Board Consumer Confidence Nov — spending signal\n\n**Wed 2026-11-25**\n- 08:30 ET — GDP 2nd estimate Q3 + PCE Oct + Durable Goods — growth vs inflation vs Fed\n- 14:00 ET — Beige Book — regional Fed color\n\n**Fri 2026-11-27** (early close 1pm ET; Thu Thanksgiving closed)\n- no major prints\n\n## Stock / catalysts — next 30 days\n**Window end-Nov 2026** — ASTS — BlueBird 17-19 ship for Blue Origin launch early Q1 2027 — window — company update Nov 9/12\n**End-2026** — ASTS — initial intermittent US service target — window — company\n**Mid-Dec 2026** — TMC — NOAA final determination on USA-A certification (exploration + commercial recovery app) — window — TMC 8-K Nov 9 / Nov 3 letter\nASTS: no single-day dated events found in 30d.\nTMC: no earnings/AGM in 30d (next ~Mar 2027).\nNo dated geo/policy meetings with critical minerals/spectrum on agenda in window.\n\n## Insiders — recently reported (ASTS, TMC)\nASTS: Nov 19 Form 4 — CTO Huiwen Yao exercised 40,000 AST LLC Incentive Equity Options at $0.0641, acquiring 40,000 Class A shares (holding ~74,750 direct). Exercise, not open-market purchase. No open-market buys/sells or 10b5-1 in last 14d. Prior grants/tax withhold earlier.\nTMC: no Form 4/144 in last 14d.\n\n## Rates and bonds\n10y ~5.04-5.07% (Nov 19), 2y ~4.76-4.80%, 10y-2y +27-28bp (not inverted). 5y TIPS real ~2.66%, 5y breakeven ~2.23%. 5y5y forward ~2.10-2.15%. Growth soft after retail/PCE path, inflation expectations anchored, Fed path data-dependent into Dec.\n\n## USD/JPY\nSpot ~158.8-159.7, overnight lower. Range-bound near recent highs; no fresh intervention chatter; US yields easing slightly.\n\n## Equities tape\nSPX 7,176 close Nov 19 (-2.02%, ~-8% from recent peak), QQQ/NDX similar, IWM ~264 (-2.2%). Breadth weak (proxy: equal-weight lagged). VIX 28.4 (elevated, highest since March).\n\n## Names / themes only if material overnight\nASTS ~25.55 (near 52w low after sharp decline); TMC ~1.66 (continued slide). No outsized overnight headlines.\n\n## What actually matters this morning\n- Monthly OPEX gamma/vol dynamics after multi-day selloff (SPX/VIX).\n- Final UMich Sentiment 10:00 ET for consumer/inflation expectations.\n- Positioning into Wed GDP/PCE data (rates, USDJPY, index vol).\n- TMC mid-Dec NOAA certification window (critical minerals/deep-sea).\n- ASTS operational cadence remains undated in 30d window."
+  }
+]
